@@ -1,0 +1,9 @@
+1. In Terminal:
+        npm init -y
+        npm i express
+        npm i sequelize
+        npm i pg
+
+2. To set up Sequelize (set up from frontend to backend because it allows us to figure out what our DB needs and doesn't need to have):
+    (setting up from back to front makes it so that we have to create mock data (fake data that's not in the database))
+        Go into db.js
